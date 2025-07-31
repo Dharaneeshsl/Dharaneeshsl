@@ -1,4 +1,4 @@
-## Risk is always better than Regret💸💸💸
+## Risk is always better than Regret
 
 <!--
 **Dharaneeshsl/Dharaneeshsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
