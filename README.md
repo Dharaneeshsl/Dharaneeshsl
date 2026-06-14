@@ -27,13 +27,6 @@ education:
   degree: BE Computer Science
   cgpa: 8.79
 
-current_focus:
-  - Machine Learning
-  - Deep Learning
-  - Full Stack Development
-  - MLOps
-  - System Design
-
 mission:
   Build products used by millions.
 ```
