@@ -126,24 +126,6 @@ Machine Learning • Deep Learning • NLP • Computer Vision • Feature Engin
 
 ---
 
-# 🎯 2026 ROADMAP
-
-```txt
-[██████████] DSA
-
-[████████░░] Machine Learning
-
-[███████░░░] Deep Learning
-
-[██████░░░░] MLOps
-
-[█████░░░░░] Open Source
-
-[████░░░░░░] Research
-```
-
----
-
 # 🌎 CONNECT
 
 <div align="center">
@@ -167,7 +149,5 @@ Machine Learning • Deep Learning • NLP • Computer Vision • Feature Engin
 <div align="center">
 
 # ⚡ BUILD • LEARN • EXECUTE
-
-### Future AI Engineer • Future Founder
 
 </div>
