@@ -120,7 +120,7 @@ Machine Learning • Deep Learning • NLP • Computer Vision • Feature Engin
 
 <div align="center">
 
-![snake gif](https://github.com/Dharaneeshsl/Dharaneeshsl/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
