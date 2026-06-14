@@ -94,49 +94,6 @@ Machine Learning • Deep Learning • NLP • Computer Vision • Feature Engin
 
 ---
 
-# 🚀 FEATURED PROJECTS
-
-## 🎵 EchoFind
-
-```txt
-Self-Supervised Audio Representation Learning
-PyTorch • SimCLR • FAISS
-
-Shazam-style audio search engine
-using contrastive learning.
-```
-
----
-
-## 🛡️ PhishX
-
-```txt
-Real-Time Phishing Detection Platform
-
-FastAPI
-React
-MongoDB
-Scikit-Learn
-
-Detect malicious URLs and emails instantly.
-```
-
----
-
-## 🎓 AI Study Companion
-
-```txt
-Memory-Augmented AI Tutor
-
-Groq LLM
-Docker
-Next.js
-
-Personalized AI learning experience.
-```
-
----
-
 # 📈 GITHUB ANALYTICS
 
 <div align="center">
