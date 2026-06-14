@@ -1,190 +1,339 @@
-# Hi, I'm Dharaneesh 👋
-
 <div align="center">
 
-### 🚀 Machine Learning Engineer | Full-Stack Developer | AWS Community Lead
+# 👋 Hey, I'm Dharaneesh S L
 
-B.E. Computer Science @ PSG College of Technology (CGPA: 8.79)
+### Machine Learning Engineer • Full-Stack Developer • AWS Technical Lead
 
-Building intelligent systems, scalable web applications, and AI-powered products.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Building+Intelligent+AI+Systems;Machine+Learning+Engineer;Full+Stack+Developer;AWS+Community+Leader;Future+Tech+Founder" />
 
-[Portfolio](https://portfolio-dharaneesh-07.vercel.app) •
-[LinkedIn](https://linkedin.com/in/dharaneesh-s-l-8715753) •
-[GitHub](https://github.com/Dharaneeshsl)
+---
+
+🎓 Computer Science Undergraduate @ PSG College of Technology
+
+📈 CGPA: 8.79
+
+🚀 4 Internships Completed
+
+☁️ AWS Technical Lead
+
+🤖 AI & Machine Learning Enthusiast
+
+🔒 Cybersecurity Club Member
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🏆 Highlights
 
-I'm a Computer Science undergraduate passionate about:
+🏅 Technical Lead — AWS Student Community
 
-- 🤖 Machine Learning & Artificial Intelligence
-- 🌐 Full-Stack Development
-- ☁️ Cloud Computing & MLOps
-- 🔒 Cybersecurity
-- 📊 Data Science
+🏅 4 Industry Internships Completed
 
-Currently focused on mastering:
+🏅 Built AI, Cybersecurity and Full-Stack Projects
 
-- Advanced Machine Learning
-- Deep Learning
-- Data Structures & Algorithms
-- System Design
-- Production AI Systems
+🏅 Active Open Source Learner
+
+🏅 Passionate about Machine Learning & MLOps
 
 ---
 
-## ⚡ Tech Stack
+# 💫 About Me
 
-### Languages
+I am a Computer Science undergraduate passionate about building
+AI-powered systems and scalable software products.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+My interests span:
 
-### Machine Learning
+• Machine Learning
 
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+• Deep Learning
 
-### Frontend
+• Full-Stack Development
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+• Cloud Computing
 
-### Backend
+• MLOps
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+• Cybersecurity
 
-### Database
+I enjoy transforming ideas into production-ready products that solve
+real-world problems.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+---
 
-### Tools
+# ⚔️ Technical Arsenal
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+## 🤖 Artificial Intelligence & Machine Learning
+
+Python • PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy
+
+Machine Learning • Deep Learning • Computer Vision
+
+NLP • Feature Engineering • Data Analysis
+
+Model Evaluation • Contrastive Learning
+
+Vector Embeddings • Recommendation Systems
+
+---
+
+## 🌐 Frontend Development
+
+React
+
+Next.js
+
+JavaScript
+
+TypeScript
+
+HTML5
+
+CSS3
+
+Tailwind CSS
+
+Bootstrap
+
+Responsive Design
+
+---
+
+## ⚙️ Backend Engineering
+
+Node.js
+
+Express.js
+
+FastAPI
+
+REST APIs
+
+JWT Authentication
+
+OAuth
+
+Microservices
+
+---
+
+## 🗄️ Databases
+
+MongoDB
+
+PostgreSQL
+
+MySQL
+
+Firebase
+
+---
+
+## ☁️ Cloud & DevOps
+
+AWS
+
+Docker
+
+Git
+
+GitHub
+
+GitHub Actions
+
+CI/CD
+
+Linux
+
+Vercel
+
+Postman
+
+---
+
+## 🛡️ Cybersecurity
+
+CTF
+
+Web Security
+
+Network Security
+
+OWASP Top 10
+
+Secure Coding
+
+Threat Detection
+
+---
+
+# 💼 Experience
+
+## Machine Learning Intern — SkillCraft
+
+• Developed ML models using Scikit-Learn
+
+• Data preprocessing and feature engineering
+
+• Model training and evaluation
+
+---
+
+## AI & Machine Learning Intern
+
+IBM SkillsBuild × Edunet Foundation
+
+• Worked on AI and ML workflows
+
+• Built practical machine learning solutions
+
+---
+
+## Web Development Intern — Corizo
+
+• Full Stack Development
+
+• REST API Design
+
+• Deployment and Hosting
+
+---
+
+## Web Development Intern — InternPro
+
+• Responsive Web Development
+
+• Git & GitHub Collaboration
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎵 EchoFind
-### Self-Supervised Audio Representation Learning
+## EchoFind
 
-- SimCLR Contrastive Learning
-- PyTorch + ResNet-18
-- FAISS Vector Search
-- Audio Retrieval System
-- Genre Classification
+Self-Supervised Audio Representation Learning
 
-Built a Shazam-style audio retrieval system using self-supervised learning and contrastive embeddings. :contentReference[oaicite:1]{index=1}
+PyTorch • SimCLR • FAISS
+
+Built a Shazam-style audio retrieval system using contrastive learning.
 
 ---
 
-## 🛡️ PhishX
-### Real-Time Phishing Detection Platform
+## PhishX
 
-- FastAPI
-- Scikit-Learn
-- React
-- Node.js
-- MongoDB
+Real-Time Phishing Detection Platform
 
-ML-powered phishing detection platform capable of classifying URLs, emails, and webpage content in real time. :contentReference[oaicite:2]{index=2}
+FastAPI • React • MongoDB
+
+Machine Learning powered phishing detection platform.
 
 ---
 
-## 🎓 AI Study Companion
+## AI Study Companion
 
-### Memory-Augmented AI Tutor
+Memory-Augmented Tutoring System
 
-- Groq LLM
-- Next.js
-- Docker
-- GitHub Actions
+Groq LLM • Docker • Next.js
 
-Personalized AI tutor with long-term memory for adaptive learning experiences. :contentReference[oaicite:3]{index=3}
+Personalized AI tutor with long-term memory.
 
 ---
 
-## 😊 MoodLens AI
+## MoodLens AI
 
-### Multi-Modal Emotion Recognition
+Emotion Recognition Platform
 
-- Face Detection
-- Wellness Analytics
-- Next.js
-- TypeScript
+Next.js • TypeScript
 
-Real-time emotion recognition system with privacy-focused client-side inference. :contentReference[oaicite:4]{index=4}
+Real-time emotion and wellness analysis.
 
 ---
 
-# 📈 Current Goals
-
-- Master Machine Learning & Deep Learning
-- Become a World-Class Full-Stack Developer
-- Build Production AI Applications
-- Contribute to Open Source
-- Crack Top ML Internships
-- Participate in Amazon ML Summer School
-
----
-
-# 🏆 Leadership
-
-### Technical Lead — AWS Student Community
-
-- Conducted cloud & ML sessions
-- Guided 60+ students
-- AWS SageMaker
-- MLOps Workflows
-- Serverless AI Deployments
-
-:contentReference[oaicite:5]{index=5}
-
----
-
-# 📚 Certifications
-
-- IBM Python for Data Science
-- Google AI Essentials
-- Generative AI for Everyone
-- Introduction to AI
-- Git & GitHub
-- HTML, CSS & JavaScript
-
-:contentReference[oaicite:6]{index=6}
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharaneeshsl&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneeshsl&layout=compact" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharaneeshsl&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneeshsl&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 💡 Quote
+# 🔥 GitHub Streak
 
-"Build. Learn. Iterate. Repeat."
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dharaneeshsl&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 👨‍💼 Leadership
+
+### AWS Student Community
+
+Technical Lead
+
+Leading workshops on:
+
+• AWS
+
+• Machine Learning
+
+• MLOps
+
+• Cloud Computing
+
+Guided 60+ students.
+
+---
+
+# 🎯 Current Focus
+
+2026 Goals:
+
+✓ Advanced Machine Learning
+
+✓ Deep Learning
+
+✓ System Design
+
+✓ MLOps
+
+✓ Open Source
+
+✓ Research Projects
+
+✓ DSA Mastery
+
+---
+
+# 🌎 Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/dharaneesh-s-l-8715753
+
+Portfolio:
+portfolio-dharaneesh-07.vercel.app
+
+GitHub:
+github.com/Dharaneeshsl
+
+Email:
+dharaneesh19112006@gmail.com
 
 ---
 
 <div align="center">
 
-### Thanks for visiting! ⭐
+### 🚀 Building the Future with AI
 
-If you like my work, consider giving a star to my repositories.
+*"Learn Fast. Build Faster. Execute Relentlessly."*
+
+⭐ Star repositories if you find them useful.
 
 </div>
