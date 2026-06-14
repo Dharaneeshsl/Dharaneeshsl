@@ -12,9 +12,7 @@
 <img src="https://img.shields.io/badge/AI%20Engineer-In%20Progress-purple?style=for-the-badge"/>
 
 <br><br>
-
 ### 🚀 Building Intelligent Systems • AI Products • Scalable Software
-
 </div>
 
 ---
