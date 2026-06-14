@@ -1,339 +1,216 @@
 <div align="center">
 
-# 👋 Hey, I'm Dharaneesh S L
+# ⚡ DHARANEESH S L
 
-### Machine Learning Engineer • Full-Stack Developer • AWS Technical Lead
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Full+Stack+Developer;AWS+Technical+Lead;Building+the+Future+with+AI" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Building+Intelligent+AI+Systems;Machine+Learning+Engineer;Full+Stack+Developer;AWS+Community+Leader;Future+Tech+Founder" />
+<br>
 
----
+<img src="https://img.shields.io/badge/CGPA-8.79-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Internships-4-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-Tech%20Lead-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Engineer-In%20Progress-purple?style=for-the-badge"/>
 
-🎓 Computer Science Undergraduate @ PSG College of Technology
+<br><br>
 
-📈 CGPA: 8.79
-
-🚀 4 Internships Completed
-
-☁️ AWS Technical Lead
-
-🤖 AI & Machine Learning Enthusiast
-
-🔒 Cybersecurity Club Member
+### 🚀 Building Intelligent Systems • AI Products • Scalable Software
 
 </div>
 
 ---
 
-# 🏆 Highlights
+# 🧠 WHO AM I?
 
-🏅 Technical Lead — AWS Student Community
+```yaml
+name: Dharaneesh S L
 
-🏅 4 Industry Internships Completed
+education:
+  college: PSG College of Technology
+  degree: BE Computer Science
+  cgpa: 8.79
 
-🏅 Built AI, Cybersecurity and Full-Stack Projects
+current_focus:
+  - Machine Learning
+  - Deep Learning
+  - Full Stack Development
+  - MLOps
+  - System Design
 
-🏅 Active Open Source Learner
-
-🏅 Passionate about Machine Learning & MLOps
-
----
-
-# 💫 About Me
-
-I am a Computer Science undergraduate passionate about building
-AI-powered systems and scalable software products.
-
-My interests span:
-
-• Machine Learning
-
-• Deep Learning
-
-• Full-Stack Development
-
-• Cloud Computing
-
-• MLOps
-
-• Cybersecurity
-
-I enjoy transforming ideas into production-ready products that solve
-real-world problems.
+mission:
+  Build products used by millions.
+```
 
 ---
 
-# ⚔️ Technical Arsenal
+# ⚔️ TECH ARSENAL
 
-## 🤖 Artificial Intelligence & Machine Learning
+<div align="center">
 
-Python • PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy
+### 🤖 AI & MACHINE LEARNING
 
-Machine Learning • Deep Learning • Computer Vision
+![Python](https://skillicons.dev/icons?i=python,pytorch,tensorflow)
 
-NLP • Feature Engineering • Data Analysis
+![Scikit](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
 
-Model Evaluation • Contrastive Learning
-
-Vector Embeddings • Recommendation Systems
-
----
-
-## 🌐 Frontend Development
-
-React
-
-Next.js
-
-JavaScript
-
-TypeScript
-
-HTML5
-
-CSS3
-
-Tailwind CSS
-
-Bootstrap
-
-Responsive Design
+Machine Learning • Deep Learning • NLP • Computer Vision • Feature Engineering
 
 ---
 
-## ⚙️ Backend Engineering
+### 🌐 FULL STACK
 
-Node.js
-
-Express.js
-
-FastAPI
-
-REST APIs
-
-JWT Authentication
-
-OAuth
-
-Microservices
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express)
 
 ---
 
-## 🗄️ Databases
+### 🗄 DATABASES
 
-MongoDB
-
-PostgreSQL
-
-MySQL
-
-Firebase
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
 
 ---
 
-## ☁️ Cloud & DevOps
+### ☁️ CLOUD & DEVOPS
 
-AWS
+![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,linux)
 
-Docker
-
-Git
-
-GitHub
-
-GitHub Actions
-
-CI/CD
-
-Linux
-
-Vercel
-
-Postman
+</div>
 
 ---
 
-## 🛡️ Cybersecurity
+# 🏆 EXPERIENCE
 
-CTF
+```diff
++ Machine Learning Intern @ SkillCraft
 
-Web Security
++ AI & ML Intern @ IBM SkillsBuild
 
-Network Security
++ Web Development Intern @ Corizo
 
-OWASP Top 10
++ Web Development Intern @ InternPro
 
-Secure Coding
-
-Threat Detection
-
----
-
-# 💼 Experience
-
-## Machine Learning Intern — SkillCraft
-
-• Developed ML models using Scikit-Learn
-
-• Data preprocessing and feature engineering
-
-• Model training and evaluation
++ Technical Lead @ AWS Student Community
+```
 
 ---
 
-## AI & Machine Learning Intern
+# 🚀 FEATURED PROJECTS
 
-IBM SkillsBuild × Edunet Foundation
+## 🎵 EchoFind
 
-• Worked on AI and ML workflows
-
-• Built practical machine learning solutions
-
----
-
-## Web Development Intern — Corizo
-
-• Full Stack Development
-
-• REST API Design
-
-• Deployment and Hosting
-
----
-
-## Web Development Intern — InternPro
-
-• Responsive Web Development
-
-• Git & GitHub Collaboration
-
----
-
-# 🚀 Featured Projects
-
-## EchoFind
-
+```txt
 Self-Supervised Audio Representation Learning
-
 PyTorch • SimCLR • FAISS
 
-Built a Shazam-style audio retrieval system using contrastive learning.
+Shazam-style audio search engine
+using contrastive learning.
+```
 
 ---
 
-## PhishX
+## 🛡️ PhishX
 
+```txt
 Real-Time Phishing Detection Platform
 
-FastAPI • React • MongoDB
+FastAPI
+React
+MongoDB
+Scikit-Learn
 
-Machine Learning powered phishing detection platform.
-
----
-
-## AI Study Companion
-
-Memory-Augmented Tutoring System
-
-Groq LLM • Docker • Next.js
-
-Personalized AI tutor with long-term memory.
+Detect malicious URLs and emails instantly.
+```
 
 ---
 
-## MoodLens AI
+## 🎓 AI Study Companion
 
-Emotion Recognition Platform
+```txt
+Memory-Augmented AI Tutor
 
-Next.js • TypeScript
+Groq LLM
+Docker
+Next.js
 
-Real-time emotion and wellness analysis.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharaneeshsl&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneeshsl&layout=compact&theme=tokyonight"/>
-
-</p>
+Personalized AI learning experience.
+```
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 GITHUB ANALYTICS
 
-<p align="center">
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dharaneeshsl&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneeshsl&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 CONTRIBUTION STREAK
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Dharaneeshsl&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
-# 👨‍💼 Leadership
+# 🐍 CONTRIBUTION SNAKE
 
-### AWS Student Community
+<div align="center">
 
-Technical Lead
+![snake gif](https://github.com/Dharaneeshsl/Dharaneeshsl/blob/output/github-contribution-grid-snake.svg)
 
-Leading workshops on:
-
-• AWS
-
-• Machine Learning
-
-• MLOps
-
-• Cloud Computing
-
-Guided 60+ students.
+</div>
 
 ---
 
-# 🎯 Current Focus
+# 🎯 2026 ROADMAP
 
-2026 Goals:
+```txt
+[██████████] DSA
 
-✓ Advanced Machine Learning
+[████████░░] Machine Learning
 
-✓ Deep Learning
+[███████░░░] Deep Learning
 
-✓ System Design
+[██████░░░░] MLOps
 
-✓ MLOps
+[█████░░░░░] Open Source
 
-✓ Open Source
-
-✓ Research Projects
-
-✓ DSA Mastery
+[████░░░░░░] Research
+```
 
 ---
 
-# 🌎 Connect With Me
+# 🌎 CONNECT
 
-LinkedIn:
-www.linkedin.com/in/dharaneesh-s-l-8715753
+<div align="center">
 
-Portfolio:
-portfolio-dharaneesh-07.vercel.app
+<a href="https://linkedin.com/in/dharaneesh-s-l-8715753">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-GitHub:
-github.com/Dharaneeshsl
+<a href="https://portfolio-dharaneesh-07.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+</a>
 
-Email:
-dharaneesh19112006@gmail.com
+<a href="mailto:dharaneesh19112006@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Building the Future with AI
+# ⚡ BUILD • LEARN • EXECUTE
 
-*"Learn Fast. Build Faster. Execute Relentlessly."*
-
-⭐ Star repositories if you find them useful.
+### Future AI Engineer • Future Founder
 
 </div>
