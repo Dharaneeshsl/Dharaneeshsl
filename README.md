@@ -2,7 +2,7 @@
 
 # ⚡ DHARANEESH S L
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI/ML+Enthusiast;Full+Stack+Developer;AWS+Technical+Lead;Building+the+Future+with+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI/ML+Enthusiast;Full+Stack+Developer;Building+the+Future+with+AI" />
 
 <br>
 
