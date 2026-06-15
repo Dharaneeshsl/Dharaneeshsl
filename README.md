@@ -6,10 +6,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/CGPA-8.79-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Internships-4-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS-Tech%20Lead-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Engineer-In%20Progress-purple?style=for-the-badge"/>
 
 <br><br>
 ### 🚀 Building Intelligent Systems • AI Products • Scalable Software
