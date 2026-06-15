@@ -6,8 +6,6 @@
 
 <br>
 
-
-<br><br>
 ### 🚀 Building Intelligent Systems • AI Products • Scalable Software
 </div>
 
